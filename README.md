@@ -1,4 +1,4 @@
-# DeepLearning
+# DeepLearning: [bit.ly/awesome-dl](bit.ly/awesome-dl)
 
 This repository keeps track of my awesome adventure trying
 to know a little more about deep learning (mainly with TensorFlow :smile:).
@@ -16,8 +16,12 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 * [Vanilla GANs for fashion MNIST](GAN-fashion-MNIST/)
 * [Easy 21 - Getting started with Reinforcement Learning](https://github.com/mari-linhares/easy21)
 * [TensorFlow Brasil - A repository for TensorFlow code samples and tutorials in Portuguese](https://github.com/mari-linhares/tensorflow-brasil)
+* [Teachable games - Using DeepLearnJS to play games just using a camera](https://github.com/mari-linhares/teachable-machine-games)
+* [Modified version of text generation tutorial including fun examples](https://github.com/mari-linhares/tf-eager-text-generation)
 
 ## Get Started with Deep Learning and TensorFlow
+
+Go to [bit.ly/awesome-dl](bit.ly/awesome-dl)
 
 ### DL and ML 101: blog posts and videos to get started
 
@@ -26,6 +30,10 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 * [Tensorflow and deep learning, without a PhD, Martin Gorner, Google](https://www.youtube.com/watch?v=sEciSlAClL8&t=2163s)
 * [TensorFlow Tutorial (Sherry Moore, Google Brain)](https://www.youtube.com/watch?v=Ejec3ID_h0w).  
 
+### Math for Deep Learning and Machine Learning
+
+* [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)  
+* [3Blue1Brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ### CNNs - Convolutional Neural Networks
 * [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA&t=1s)  
@@ -67,6 +75,7 @@ to know a little more about deep learning (mainly with TensorFlow :smile:).
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)  
 * [Hvass Lab](https://www.youtube.com/user/hvasslabs/videos)  
 * [Google Dev - Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&index=7&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)  
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  
 
 ### GO DEEP - learn more about deep learning in 1 or 2 months
 
